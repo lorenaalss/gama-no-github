@@ -1,2 +1,1 @@
-# gama-no-github
-Estou achando este curso incrivel!
+Estou achando este curso incrivel!!
